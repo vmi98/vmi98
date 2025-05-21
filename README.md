@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Vlada, I'm an enthusiastic **python backend developer** at the start of a career.
+My name is Vlada, I'm an enthusiastic **python backend developer** at the beginning of my career in web development.
 
-I’m fascinated by every layer of web development. While I specialize in backend Python, I love exploring the bigger picture and am curious about how the whole web stack connects.
+I’m fascinated by every layer of web development. While I specialize in backend Python at the moment, I love exploring the bigger picture and learning about how the whole web stack connects.
 
-I'm seeking for opportunities to get professional work experience applying my skills and for a team where I can grow and contribute.
+I'm seeking opportunities to get professional work experience and apply my skills in a team where I can grow and contribute.
 ### Skills & stack
 **Backend:** Python, Django, Django REST Framework, Flask  
 **Databases:** SQL, PostgreSQL, SQLite, Django ORM  
