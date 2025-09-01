@@ -6,10 +6,10 @@ I’m fascinated by every layer of web development. While I specialize in backen
 
 I'm seeking opportunities to get professional work experience and apply my skills in a team where I can grow and contribute.
 ### Skills & stack
-**Backend:** Python, Django, Django REST Framework, Flask, FastAPI  
+**Backend:** Python, Django, Django REST Framework, Flask, FastAPI, Pydantic    
 **Databases:** SQL, PostgreSQL, SQLite, Django ORM, SQLModel  
 **Tools:** Docker, Git/GitHub, Linux, VS Code, uv   
-**Testing:** pytest, unittest, flake8  
+**Testing and linting:** pytest, unittest, flake8, ruff  
 **Frontend Basics:** HTML, CSS, JavaScript  
 **Principles:** OOP, SOLID  
 **Languages:** English (B2), Chinese (A1)
